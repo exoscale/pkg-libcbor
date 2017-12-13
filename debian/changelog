@@ -1,3 +1,9 @@
+libcbor (0.5.0+dfsg-1~xenial0+exo1) xenial; urgency=medium
+
+  * Backport for Xenial.
+
+ -- Vincent Bernat <bernat@debian.org>  Wed, 13 Dec 2017 13:52:53 +0100
+
 libcbor (0.5.0+dfsg-1) unstable; urgency=medium
 
   * Initial release. Closes: #787015.
